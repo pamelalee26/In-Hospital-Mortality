@@ -18,8 +18,8 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 - Feature Selection using low variance filter and pairwise correlation
 
 ## Exploratory Data Analysis
-- For creatine kinase, despite the presence of extreme outliers, we decided to keep them as high levels of creatine kinase is known to be dangerous and will affect the outcome
-- We also inferred that EF does not seem to have a significant impact on outcome, and thus we dropped that variable.
+- For creatine kinase, despite the presence of extreme outliers, we decided to keep them as high levels of creatine kinase is known to be dangerous and will affect 'outcome'
+- We also inferred that EF does not seem to have a significant impact on 'outcome', and thus we dropped that variable.
 
 ## Models Used
 - K-Nearest Neighbours
@@ -31,8 +31,8 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 - Similarly, heart rate, systolic blood pressure, SPO2, Urine output etc. are notable determinants that can affect mortality outcomes.
 - Hospitals should install more medical devices to monitor changes in patients’ medical statistics in these areas. 
 - Of the 3 machine learning models used, Random Forest has the highest F1 score and accuracy, and thus it is the most ideal method of the 3.
-- The low F1 scores can be attributed to the skew in outcome values. In order to overcome this, we can oversample the minority class or undersample the majority class.
-- However, the skewed outcome values models real life scenarios, as intensive care units (ICU) have an average mortality rate reported ranging from 8-19%. Thus, we have decided against oversampling or undersampling to best model reality and develop a practical and efficient predictor to help hospitals increase patient survival rates.
+- The low F1 scores can be attributed to the skew in 'outcome'. In order to overcome this, we can oversample the minority class or undersample the majority class.
+- However, the skewed 'outcome' values models real life scenarios, as intensive care units (ICU) have an average mortality rate reported ranging from 8-19%. Thus, we have decided against oversampling or undersampling to best model reality and develop a practical and efficient predictor to help hospitals increase patient survival rates.
 - Overall, we believe that hospitals can consider the use of the Random Forest machine learning algorithm to process collected data to predict the probable mortality outcome for patients and can help hospitals predict the survival rates of patients & best allocate medical resources to give patients care/support.
 
 ## Learning Outcomes

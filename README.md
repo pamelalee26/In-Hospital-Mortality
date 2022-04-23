@@ -39,4 +39,3 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 - K-Nearest Neighbours
 - Logistic Regression
 - Random Forest
-- Log Loss Function

@@ -11,6 +11,7 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 2. [Notebook](https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Hospital%20Mortality%20Prediction%20Final.ipynb)
 3. [Transcript](https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Transcript.docx)
 
+## [Our Project Presentation Video](https://www.youtube.com/watch?v=gRhFa5yBMR4)
 # Summary of Project
 ## Data Cleaning 
 - Dealing with null values

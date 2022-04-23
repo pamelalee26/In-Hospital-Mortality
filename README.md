@@ -1,5 +1,5 @@
 # SC1015 Data Science & Artificial Intelligence Project On Predicting In-Hospital Mortality
-![alt text](http://url/to/img.png)https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Image.jpg
+!(http://url/to/img.png)https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Image.jpg
 # Problem Definition
 Our team aims to investigate how hospitals can predict the survival outcome of their in-hospital patients.  
 

@@ -7,9 +7,9 @@ Our team aims to investigate how hospitals can predict the survival outcome of t
 The dataset that we have settled on is sourced from Kaggle and is called “In Hospital Mortality Prediction”, which outlines variables including demographic characteristics such as the age of the patient, gender. BMI etc. 
 
 ## Contents In Folder
-1. Slides (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Slides.pptx)
-2. Notebook (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Hospital%20Mortality%20Prediction%20Final.ipynb)
-3. Transcript (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Transcript.docx)
+1. [Slides] (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Slides.pptx)
+2. [Notebook] (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Hospital%20Mortality%20Prediction%20Final.ipynb)
+3. [Transcript] (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Transcript.docx)
 
 # Summary of Project
 ## Data Cleaning 

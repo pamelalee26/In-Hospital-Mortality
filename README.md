@@ -6,7 +6,7 @@ Our team aims to investigate how hospitals can predict the survival outcome of t
 ## [Dataset](https://www.kaggle.com/datasets/saurabhshahane/in-hospital-mortality-prediction)
 The dataset that we have settled on is sourced from Kaggle and is called “In Hospital Mortality Prediction”, which outlines variables including demographic characteristics such as the age of the patient, gender. BMI etc. 
 
-## Data Cleaning
+## Data Cleaning 
 - Dealing with null values
 - Feature Selection using low variance filter and pairwise correlation
 
@@ -34,7 +34,7 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 
 ## Slides:
 
-## Notebook:
+## Notebook (https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Hospital%20Mortality%20Prediction%20Final.ipynb)
 Our notebook contains code that covers:
 1. Data Cleaning and Preparation
 2. Exploratory Data Analysis

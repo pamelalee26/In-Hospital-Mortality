@@ -24,7 +24,7 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 ## Models Used
 - K-Nearest Neighbours
 - Logistic Regression
-- Decision Tree
+- Random Forest
 
 ## Conclusion
 - Number of in-hospital patients increases with age. Therefore, hospitals should pay especially careful attention to older patients as they are at higher risk of mortality. 

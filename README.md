@@ -30,7 +30,9 @@ The dataset that we have settled on is sourced from Kaggle and is called “In H
 - Number of in-hospital patients increases with age. Therefore, hospitals should pay especially careful attention to older patients as they are at higher risk of mortality. 
 - Similarly, heart rate, systolic blood pressure, SPO2, Urine output etc. are notable determinants that can affect mortality outcomes.
 - Hospitals should install more medical devices to monitor changes in patients’ medical statistics in these areas. 
+- Of the 3 machine learning models used, Random Forest has the highest F1 score and accuracy, and thus it is the most ideal method of the 3.
 - Hospitals can consider the use of the Random Forest machine learning algorithm to process collected data to predict the probable mortality outcome for patients. 
+
 
 ## Learning Outcomes
 - Feature Selection

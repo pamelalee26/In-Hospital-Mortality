@@ -2,9 +2,9 @@
 ![image](https://github.com/pamelalee26/In-Hospital-Mortality/blob/main/Image.jpg)
 
 # Contributors
-Law Wei Zhen: ML Visualisation, Presentation and Slides
-Lee Ying Ying, Pamela: Data Cleaning, Exploratory Data Analysis, Machine Learning Models, Presentation and Slides
-Lui Shi Ying: Data Cleaning, Exploratory Data Analysis, Machine Learning Models, Presentation and Slides
+- Law Wei Zhen: ML Visualisation, Presentation and Slides
+- Lee Ying Ying, Pamela: Data Cleaning, Exploratory Data Analysis, Machine Learning Models, Presentation and Slides
+- Lui Shi Ying: Data Cleaning, Exploratory Data Analysis, Machine Learning Models, Presentation and Slides
 
 # Problem Definition
 Our team aims to investigate how hospitals can predict the survival outcome of their in-hospital patients.  
